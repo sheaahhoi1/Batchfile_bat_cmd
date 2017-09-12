@@ -1,0 +1,8 @@
+1.利用Microsoft Toolkit安裝KMS Server Service
+2.自動/手動匯入.XML是[WIN排程工作],180daykmsrun.cmd是激活程序
+WIN排程工作匯入.XML
+cmd需要放在C:\Program Files\Microsoft Office\root\Office16\
+
+Win 10需要
+防毒排除威脅
+"C:\Windows\KMSServerService\KMS Server Service.exe"
