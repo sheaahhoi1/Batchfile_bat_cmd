@@ -1,0 +1,9 @@
+CMD 內COPY系主指令
+複製速度
+robocopy > xcopy > copy
+copy xcopy robocopy
+ROBOCOPY     ::     Robust File Copy for Windows(健全的檔案複製)
+
+robocopy可對大型檔案快速複製,具有多通道特性
+xcopy對大型檔案比較robocopy慢
+copy指令簡單,但對大型檔案最慢

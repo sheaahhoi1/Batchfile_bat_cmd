@@ -1,0 +1,3 @@
+mklink /j "R:\World of Warcraft" "E:\um_Program_Files\World of Warcraft\"
+mklink /j "R:\Hearthstone" "E:\um_Program_Files\Hearthstone"
+pause
