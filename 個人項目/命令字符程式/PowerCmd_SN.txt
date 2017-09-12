@@ -1,0 +1,3 @@
+﻿PowerCmd
+姓名(Name)：Tom(隨便)
+序列号(Serial)：PCMDA-QHSJO-SQOHJ-CADPM
